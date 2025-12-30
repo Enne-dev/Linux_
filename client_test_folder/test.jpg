@@ -1,0 +1,16 @@
+--2025-10-30 12:51:39--  https://picsum.photos/536/354
+Resolving picsum.photos... 104.26.4.30, 172.67.74.163, 104.26.5.30, ...
+Connecting to picsum.photos|104.26.4.30|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://fastly.picsum.photos/id/822/536/354.jpg?hmac=9SpWynDccCitrWhlYnRoAmb-sYoLNpUVQHmLsbbOLm4 [following]
+--2025-10-30 12:51:40--  https://fastly.picsum.photos/id/822/536/354.jpg?hmac=9SpWynDccCitrWhlYnRoAmb-sYoLNpUVQHmLsbbOLm4
+Resolving fastly.picsum.photos... 151.101.129.91, 151.101.65.91, 151.101.1.91, ...
+Connecting to fastly.picsum.photos|151.101.129.91|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40072 (39K) [image/jpeg]
+Saving to: `354'
+
+     0K .......... .......... .......... .........            100% 6.26M=0.006s
+
+2025-10-30 12:51:40 (6.26 MB/s) - `354' saved [40072/40072]
+
